@@ -236,7 +236,7 @@ Semakin mendekati 0.5 distribusi bit, semakin tinggi kemungkinan ada pesan terse
 ## ⚙️ Parameter & Opsi Penggunaan
 
 | Parameter | Jenis | Default | Deskripsi |
-|----------|----------|----------|
+|----------|----------|----------|----------|
 | ``input_image`` | str | — | Path gambar sumber |
 | ``output_image`` | str | — | Path untuk menyimpan hasil |
 | ``message`` | str | — | Pesan teks yang akan disembunyikan |
