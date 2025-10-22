@@ -1,4 +1,4 @@
-# 📘 StegoImageX v11.0.0 — Dokumentasi Resmi
+# 📘 StegoImageX v0.0.1 — Dokumentasi Resmi
 
 Advanced Adaptive AES-Encrypted Steganography Library for Python
 
