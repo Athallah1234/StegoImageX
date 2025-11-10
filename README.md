@@ -1,4 +1,4 @@
-# 🧠 StegoImageX v11.0  
+# 🧠 StegoImageX v0.0.1  
 **Advanced Adaptive AES-Encrypted Steganography Library for Python**
 
 > 📦 Created by **ATHALLAH RAJENDRA PUTRA JUNIARTO**  
@@ -8,7 +8,7 @@
 
 ## 📘 Deskripsi Singkat
 
-**StegoImageX v11.0** adalah **perpustakaan steganografi tingkat lanjut berbasis Python** yang memungkinkan penyembunyian pesan teks ke dalam gambar dengan keamanan tinggi.  
+**StegoImageX v0.0.1** adalah **perpustakaan steganografi tingkat lanjut berbasis Python** yang memungkinkan penyembunyian pesan teks ke dalam gambar dengan keamanan tinggi.  
 Menggabungkan berbagai teknologi seperti:
 
 - 🔒 **AES-256 CBC Encryption**
